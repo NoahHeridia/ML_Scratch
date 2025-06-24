@@ -1,0 +1,11 @@
+CRAPP test (method): Currency, Relivance, Authority, Accuracy, and Purpose.
+
+When searching, try using a mind map for creating a search string of key words
+Can sub a letter with e, x, o, or a for "?" in its place for a search.
+* is truncation
+() is grouping
+Look at utsa library tutorials
+
+Make sure to be specific with a time frame for publications to search through. For current, a good rule of thumb is 10 year difference.
+
+diane.lopez2@utsa.edu
